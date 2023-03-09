@@ -1,0 +1,21 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_E40D34B1_C1E0_0516_41C7_F52086D185AE.label = cổng
+panorama_E40A1223_C1E0_3D3A_41CD_1D3E2A3FA029.label = cổng
+panorama_E40E7538_C1E0_0715_41BA_D548927089B0.label = nội thất
+panorama_E40F4B57_C1E0_031A_41E0_33205FA56F14.label = nội thất
+panorama_E40E308D_C1E0_1D0E_41A8_BA843B43F81B.label = sân
+panorama_E40D4D80_C1E0_07F6_41D3_959501B42EEC.label = sân
+panorama_E40E9FE5_C1E0_033E_41D6_02D32E63DABC.label = sảnh
+panorama_E40EF7ED_C1E0_030F_41E0_3BE3C9D48BDE.label = sảnh
+panorama_E7C40C28_C1E0_0535_41E6_BC51308E85B0.label = trên cao
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 143
